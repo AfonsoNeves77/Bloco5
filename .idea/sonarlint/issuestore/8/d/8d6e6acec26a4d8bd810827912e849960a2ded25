@@ -1,0 +1,15 @@
+
+1
+java:S1700"Rename field "array"(ïì¨œ8°•ßÀ1
+{
+java:S30122"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Á‘—Êüÿÿÿÿ8ç–ßÀ1
+w
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¾Ù´á8‚—ßÀ1
+w
+java:S3012·"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¾Ù´á8„—ßÀ1
+w
+java:S3012Ğ"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¾Ù´á8‡—ßÀ1
+w
+java:S3012é"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¾Ù´á8Š—ßÀ1
+w
+java:S3012†"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¾Ù´á8—ßÀ1
